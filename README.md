@@ -1,1 +1,0 @@
-# scooter-bambulab-exporter
