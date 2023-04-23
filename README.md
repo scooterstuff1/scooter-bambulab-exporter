@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 =======
 
@@ -139,3 +140,6 @@ tylerwbennet@gmail.com
 >>>>>>> other_remote/main
 =======
 >>>>>>> other_remote/main
+=======
+# scooter-bambulab-exporter
+>>>>>>> 6fcc97667b30c36cdb9e0f33063d3436635473aa
