@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# scooter-bambulab-exporter
+
 =======
 
 # BAMBULABS EXPORTER
@@ -136,4 +135,7 @@ Give me a shout if you utilize this code base (Anywhere!)
 ```
 tylerwbennet@gmail.com
 ```
+<<<<<<< HEAD
+>>>>>>> other_remote/main
+=======
 >>>>>>> other_remote/main
